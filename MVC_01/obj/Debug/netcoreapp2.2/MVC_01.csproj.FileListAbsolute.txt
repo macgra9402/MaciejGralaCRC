@@ -1,0 +1,16 @@
+E:\kursMVC\MVC_01\MVC_01\bin\Debug\netcoreapp2.2\MVC_01.deps.json
+E:\kursMVC\MVC_01\MVC_01\bin\Debug\netcoreapp2.2\MVC_01.runtimeconfig.json
+E:\kursMVC\MVC_01\MVC_01\bin\Debug\netcoreapp2.2\MVC_01.runtimeconfig.dev.json
+E:\kursMVC\MVC_01\MVC_01\bin\Debug\netcoreapp2.2\MVC_01.dll
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.csproj.CoreCompileInputs.cache
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.RazorAssemblyInfo.cache
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.RazorAssemblyInfo.cs
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.AssemblyInfoInputs.cache
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.AssemblyInfo.cs
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.RazorTargetAssemblyInfo.cache
+E:\kursMVC\MVC_01\MVC_01\bin\Debug\netcoreapp2.2\MVC_01.pdb
+E:\kursMVC\MVC_01\MVC_01\bin\Debug\netcoreapp2.2\MVC_01.Views.dll
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.dll
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.pdb
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.csproj.CopyComplete
+E:\kursMVC\MVC_01\MVC_01\obj\Debug\netcoreapp2.2\MVC_01.csprojAssemblyReference.cache

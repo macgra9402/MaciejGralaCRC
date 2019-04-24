@@ -1,0 +1,17 @@
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_TESTS.deps.json
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_TESTS.runtimeconfig.json
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_TESTS.runtimeconfig.dev.json
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_TESTS.dll
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_01.dll
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_01.pdb
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.csprojAssemblyReference.cache
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.csproj.CoreCompileInputs.cache
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.AssemblyInfoInputs.cache
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.AssemblyInfo.cs
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.csproj.CopyComplete
+E:\kursMVC\MVC_01\MVC_TESTS\bin\Debug\netcoreapp2.2\MVC_TESTS.pdb
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.dll
+E:\kursMVC\MVC_01\MVC_TESTS\obj\Debug\netcoreapp2.2\MVC_TESTS.pdb
